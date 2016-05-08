@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sat May 07 15:43:05 EDT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0154-8cbe-a7dd-00000328cdb0 
+Sat May 07 22:22:00 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0154-8e2b-ddc3-0000033bcba8 
 on database directory C:\Users\zacha\Documents\NetBeansProjects\NewCustomerDatabase\CoffeeDB with class loader sun.misc.Launcher$AppClassLoader@330bedb4 
 Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_73/db/lib/derby.jar
 java.vendor=Oracle Corporation

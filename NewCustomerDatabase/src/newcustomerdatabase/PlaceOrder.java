@@ -77,9 +77,12 @@ public class PlaceOrder extends JFrame
       JButton submitButton = new JButton("Submit");
       submitButton.addActionListener(new SubmitButtonListener());
       
+      
+      
 
       
-      // Add the buttons to the panel.
+      // Add the butt9ons to the panel.
+      buttonPanel.add(submitButton);
  
    }
    
